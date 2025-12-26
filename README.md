@@ -45,7 +45,17 @@ SQL was used to:
 ###  Tableau Dashboard
 - Interactive dashboard for deeper exploration of sales data
 - Filters by time, state, brand, and category
+  
 
+# Dashboard Insights & Recommendations
+
+- **Revenue Trends:** Peaked in **2017 ($3.8M)** with clear **mid-year seasonality**.  
+- **Top States & Growth:** **NY ($5.83M), CA ($1.79M)**; **TX ($0.96M)** shows growth potential.  
+- **Top Brands & Categories:** **Trek** leads (**$5.1M**); **Mountain Bikes** top category (**$3.03M**).  
+- **Store & Reps:** **Baldwin Bikes** store drives most sales; **Marcelene Boyer ($2.94M)** and **Venita Daniel ($2.89M)** are key revenue drivers (~65%).  
+- **Recommendations:** Focus on **loyalty programs** for top reps/customers, expand **underperforming brands/states**, and leverage **seasonal peaks** to boost growth.
+
+- 
 ## ✅ Skills Demonstrated
 - Writing  SQL queries
 - Performing aggregations for business analysis
