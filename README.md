@@ -46,7 +46,6 @@ SQL was used to:
 - Interactive dashboard for deeper exploration of sales data
 - Filters by time, state, brand, and category
   
-
 # Dashboard Insights & Recommendations
 
 - **Revenue Trends:** Peaked in **2017 ($3.8M)** with clear **mid-year seasonality**.  
@@ -54,8 +53,7 @@ SQL was used to:
 - **Top Brands & Categories:** **Trek** leads (**$5.1M**); **Mountain Bikes** top category (**$3.03M**).  
 - **Store & Reps:** **Baldwin Bikes** store drives most sales; **Marcelene Boyer ($2.94M)** and **Venita Daniel ($2.89M)** are key revenue drivers (~65%).  
 - **Recommendations:** Focus on **loyalty programs** for top reps/customers, expand **underperforming brands/states**, and leverage **seasonal peaks** to boost growth.
-
-- 
+  
 ## ✅ Skills Demonstrated
 - Writing  SQL queries
 - Performing aggregations for business analysis
@@ -64,7 +62,6 @@ SQL was used to:
 - Building interactive Tableau visualizations
 - Translating raw data into business insights
 
----
 
 ## 📌 Project Outcome
 This project demonstrates my ability to work with real-world sales data, transform it into an analytical dataset using SQL, and deliver insights through professional dashboards suitable for business stakeholders and recruiters.
