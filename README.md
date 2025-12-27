@@ -1,4 +1,6 @@
 #  Bike Store Sales Analysis
+## Tableau Dashboard
+🔗 [View Live Tableau Dashboard](https://public.tableau.com/app/profile/shakhzod.boymatov3485/viz/Project1ExecutiveDashboard_17439060730100/Dashboard1)
 
 # Project Overview
 This project analyzes Bike Store sales data to extract meaningful business insights using **SQL, Excel, and Tableau**.  
